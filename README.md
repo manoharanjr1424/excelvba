@@ -1,2 +1,2 @@
-# excelvba
-Hotel  Booking system using Excel Vba 
+#EXCEL VBA
+Hotel  Booking System using Excel Vba 
